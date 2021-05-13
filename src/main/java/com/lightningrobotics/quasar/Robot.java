@@ -1,4 +1,4 @@
-package com.lightningrobotics.howitzer;
+package com.lightningrobotics.quasar;
 
 import frc.lightning.LightningRobot;
 

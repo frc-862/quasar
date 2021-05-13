@@ -1,4 +1,4 @@
-package com.lightningrobotics.howitzer;
+package com.lightningrobotics.quasar;
 
 import edu.wpi.first.wpilibj.RobotBase;
 
